@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v145:VCToolArchitecture=Native64Bit:VCToolsVersion=14.50.35717:VCServicingVersionCompilers=14.50.35721:TargetPlatformVersion=10.0.26100.0:VcpkgTriplet=x64-windows:
 Debug|x64|C:\Users\Elliot Alderson\Downloads\asdqweewq\saviour\|
+=======
+PlatformToolSet=v145:VCToolArchitecture=Native64Bit:VCToolsVersion=14.50.35717:VCServicingVersionCompilers=14.50.35721:TargetPlatformVersion=10.0.26100.0:VcpkgTriplet=x64-windows:
+Debug|x64|C:\Users\Elliot Alderson\Downloads\asdqweewq\saviour\|
+>>>>>>> 6f6bb65 (source)
